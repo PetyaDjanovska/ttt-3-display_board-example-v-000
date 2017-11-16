@@ -6,3 +6,5 @@ def display_board
   puts "_ _ _ _ _ _ _ _ _ _ _"
   puts "   |   |   "
 end
+
+display_board
